@@ -1,79 +1,179 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anand+K+S;Mobile+App+Developer;Flutter+%7C+UI%2FUX+%7C+AWS+Learner" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center" style="color:#ffffff;">🚀 Passionate Mobile App Developer from India</h3>
+# 👋 Hi, I'm Anand K S
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3B3B&center=true&vCenter=true&random=false&width=700&lines=Flutter+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;AWS+Learner;Building+Beautiful+Mobile+Experiences" />
+
+### 🚀 Passionate Flutter Developer from India
+
+<img src="https://komarev.com/ghpvc/?username=anand5545&label=Profile+Views&color=ff3b3b&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Flutter Developer passionate about building beautiful, scalable and high-performance mobile applications.
+
+- 🔭 Currently working on **Click.AI**
+- 🌱 Learning **AWS • AI • Web Development**
+- 👨‍💻 Love building modern Flutter applications
+- 🤝 Open to Flutter Freelance & Full-time Opportunities
+- 📱 Interested in UI/UX & Mobile Architecture
+- ⚡ Fun Fact: Coffee + Flutter = Productivity ☕
+
+---
+
+# 🌐 Portfolio
+
+### 🌍 Portfolio
+https://anand5545.github.io/portfolio1/
+
+### 📄 Resume
+https://drive.google.com/file/d/1mtBV-WeCpI5EoSBSP_vUyYY1WWEtvFft/view
+
+### 📫 Email
+
+anandks841@gmail.com
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anand5545&label=Profile%20views&color=ff0000&style=flat" alt="anand5545" />
+
+<a href="https://www.linkedin.com/in/anand-k-s">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="https://instagram.com/anand.ks.11">
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+</a>
+
+<a href="mailto:anandks841@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
 </p>
 
 ---
 
-### 🧠 About Me
+# 🛠 Tech Stack
 
-- 🔭 I’m currently working on **click.ai**
-- 🌱 Currently exploring **Flutter**, **Web Dev**, **AWS**, **AI**
-- 👯 Looking to collaborate on **Mobile App Projects**
-- 🤝 Seeking help in **App Architecture / Clean Code**
-- 👨‍💻 Portfolio: [anand5545.github.io/portfolio1](https://anand5545.github.io/portfolio1/)
-- 📫 Reach me at: **anandks841@gmail.com**
-- 📄 [Download Resume](https://drive.google.com/file/d/1mtBV-WeCpI5EoSBSP_vUyYY1WWEtvFft/view?usp=sharing)
-- ⚡ **Fun fact:** Debugging at 2 AM with 5% battery and a 🔥 playlist!
+<div align="center">
 
----
+### Mobile
 
-### 🔗 Connect With Me
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anand-k-s" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/anand.ks.11" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="35" />
-  </a>
-</p>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+### Cloud
+
+<img src="https://skillicons.dev/icons?i=aws" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,photoshop" />
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" />
-</p>
+## 🍲 TasteMix
 
----
+A modern Flutter Recipe Application featuring
 
-### 📊 GitHub Stats (Red Theme)
+- Firebase
+- Provider
+- Beautiful UI
+- Search Recipes
+- Favorites
+- Responsive Design
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand5545&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand5545&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand5545&layout=compact&theme=radical&hide_border=true" />
-</p>
+🔗 Repository:
+https://github.com/anand5545
 
 ---
 
-### 🎬 Highlight Projects
-> You can showcase 2–3 featured project cards here with links and short descriptions. Let me know if you want me to generate those.
+## 🚚 SLR Delivery
+
+A complete delivery application including
+
+- Customer App
+- Delivery Boy App
+- Admin Panel
+- Order Tracking
+- Firebase Backend
+
+🔗 Repository:
+https://github.com/anand5545
 
 ---
 
-> 🔥 Made with ❤️ in Flutter | Themed in **Red, White & Black**
+## 🤖 Click.AI
+
+An AI-powered Flutter application currently under development.
+
+- AI Integration
+- Clean UI
+- Modern Architecture
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anand5545&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand5545&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anand5545&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anand5545&theme=radical&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anand5545&theme=redical&hide_border=true"/>
+
+</div>
+
+---
+
+# 💡 Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+
+---
+
+<div align="center">
+
+### ❤️ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B3B&height=120&section=footer"/>
+
+</div>
