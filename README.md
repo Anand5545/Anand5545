@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0D0D,50:8B0000,100:FF2D2D&text=Anand%20K%20S&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
@@ -15,7 +14,7 @@
 <img src="https://img.shields.io/badge/Portfolio-FF2D2D?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/anandks1/">
+<a href="https://www.linkedin.com/in/anand-k-s">
 <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -31,13 +30,13 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm **Anand K S**, a Flutter Developer passionate about creating intuitive, elegant, and high-performance mobile applications.
 
 I enjoy transforming ideas into digital products by combining **clean UI**, **thoughtful UX**, and **scalable Flutter architecture**.
 
-### Currently Exploring
+Currently exploring
 
 - 📱 Flutter Development
 - 🎨 UI/UX Design
@@ -47,28 +46,33 @@ I enjoy transforming ideas into digital products by combining **clean UI**, **th
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### Flutter Developer
 
 Building cross-platform applications with
 
-- ✔ Responsive UI
-- ✔ Firebase Integration
-- ✔ Clean Architecture
-- ✔ State Management
-- ✔ REST APIs
-- ✔ Performance Optimization
+✔ Responsive UI
+
+✔ Firebase Integration
+
+✔ Clean Architecture
+
+✔ State Management
+
+✔ REST APIs
+
+✔ Performance Optimization
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🤖 Click.AI
 
 An AI-powered mobile application focused on productivity and intelligent user experiences.
 
-> **Tech Stack:** Flutter • AI • Firebase
+> Flutter • AI • Firebase
 
 ---
 
@@ -97,38 +101,41 @@ Complete delivery ecosystem including
 
 ---
 
-# 🎯 Design Philosophy
+# Design Philosophy
 
-> **"Good Design is Invisible."**
+> Good Design is Invisible.
 
 Every screen should feel
 
-- ✔ Fast
-- ✔ Intuitive
-- ✔ Accessible
-- ✔ Beautiful
+✔ Fast
+
+✔ Intuitive
+
+✔ Accessible
+
+✔ Beautiful
 
 I believe great products come from balancing aesthetics with usability.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <div align="center">
 
-### 📱 Mobile Development
+### Mobile Development
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
 
-### 🎨 UI / UX
+### UI / UX
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop"/>
 
-### 🌐 Web
+### Web
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
-### ☁ Cloud & Tools
+### Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode"/>
 
@@ -136,7 +143,7 @@ I believe great products come from balancing aesthetics with usability.
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -154,7 +161,7 @@ I believe great products come from balancing aesthetics with usability.
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <p align="center">
 
@@ -164,7 +171,7 @@ I believe great products come from balancing aesthetics with usability.
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 
 <p align="center">
 
@@ -174,7 +181,7 @@ I believe great products come from balancing aesthetics with usability.
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -192,13 +199,9 @@ I'm always interested in
 
 ### 📧 anandks841@gmail.com
 
-### 🌐 Portfolio
+**Portfolio**
 
 https://anand5545.github.io/portfolio1/
-
-### 💼 LinkedIn
-
-https://www.linkedin.com/in/anandks1/
 
 </div>
 
@@ -206,9 +209,8 @@ https://www.linkedin.com/in/anandks1/
 
 <div align="center">
 
-### **"Design. Build. Iterate."**
+### "Design. Build. Iterate."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:FF2D2D,100:0D0D0D"/>
 
 </div>
-```
