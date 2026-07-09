@@ -1,179 +1,137 @@
 <div align="center">
 
-# 👋 Hi, I'm Anand K S
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:FF2D2D&text=Anand%20K%20S&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3B3B&center=true&vCenter=true&random=false&width=700&lines=Flutter+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;AWS+Learner;Building+Beautiful+Mobile+Experiences" />
+# Mobile App Developer
 
-### 🚀 Passionate Flutter Developer from India
+### Flutter • UI/UX • Firebase • AWS
 
-<img src="https://komarev.com/ghpvc/?username=anand5545&label=Profile+Views&color=ff3b3b&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=FF2D2D&center=true&vCenter=true&width=550&lines=Designing+Meaningful+Experiences;Building+Modern+Flutter+Apps;Always+Learning+Something+New"/>
+
+<p>
+
+<a href="https://github.com/anand5545">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anand-k-s">
+<img src="https://img.shields.io/badge/LinkedIn-FF2D2D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anandks841@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# About
 
-💻 Flutter Developer passionate about building beautiful, scalable and high-performance mobile applications.
+> I create intuitive mobile experiences with Flutter by combining clean architecture, thoughtful UI design, and smooth user interactions.
 
-- 🔭 Currently working on **Click.AI**
-- 🌱 Learning **AWS • AI • Web Development**
-- 👨‍💻 Love building modern Flutter applications
-- 🤝 Open to Flutter Freelance & Full-time Opportunities
-- 📱 Interested in UI/UX & Mobile Architecture
-- ⚡ Fun Fact: Coffee + Flutter = Productivity ☕
+Currently focusing on
 
----
-
-# 🌐 Portfolio
-
-### 🌍 Portfolio
-https://anand5545.github.io/portfolio1/
-
-### 📄 Resume
-https://drive.google.com/file/d/1mtBV-WeCpI5EoSBSP_vUyYY1WWEtvFft/view
-
-### 📫 Email
-
-anandks841@gmail.com
+- Flutter Development
+- Mobile UI/UX
+- Firebase
+- AWS
+- AI Integration
 
 ---
 
-# 🤝 Connect With Me
+# Selected Work
+
+| Project | Description |
+|---------|-------------|
+| 🍽 TasteMix | Modern recipe application built with Flutter & Firebase |
+| 🚚 SLR Delivery | Multi-role delivery platform with Admin, Client & Delivery apps |
+| 🤖 Click.AI | AI-powered mobile experience currently in development |
+
+---
+
+# Design Philosophy
+
+```
+Simple.
+
+Functional.
+
+Beautiful.
+
+Accessible.
+```
+
+Every interface should feel effortless to use.
+
+---
+
+# Tech Stack
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anand-k-s">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
 
-<a href="https://instagram.com/anand.ks.11">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-</a>
+<br><br>
 
-<a href="mailto:anandks841@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
+<img src="https://skillicons.dev/icons?i=figma,aws,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# GitHub Insights
 
-<div align="center">
+<p align="center">
 
-### Mobile
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anand5545&theme=transparent&show_icons=true&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand5545&theme=transparent&layout=compact&hide_border=true"/>
 
-### Frontend
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<p align="center">
 
-### Cloud
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=anand5545&theme=transparent&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=aws" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,photoshop" />
-
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# Activity
 
-## 🍲 TasteMix
+<p align="center">
 
-A modern Flutter Recipe Application featuring
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anand5545&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF2D2D&line=FF2D2D&point=FFFFFF"/>
 
-- Firebase
-- Provider
-- Beautiful UI
-- Search Recipes
-- Favorites
-- Responsive Design
-
-🔗 Repository:
-https://github.com/anand5545
+</p>
 
 ---
 
-## 🚚 SLR Delivery
+# Let's Build Something Great
 
-A complete delivery application including
+<p align="center">
 
-- Customer App
-- Delivery Boy App
-- Admin Panel
-- Order Tracking
-- Firebase Backend
+💼 Open for Flutter Developer Roles
 
-🔗 Repository:
-https://github.com/anand5545
+📱 Mobile App Projects
 
----
+🎨 UI/UX Collaborations
 
-## 🤖 Click.AI
-
-An AI-powered Flutter application currently under development.
-
-- AI Integration
-- Clean UI
-- Modern Architecture
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anand5545&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand5545&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anand5545&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anand5545&theme=radical&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anand5545&theme=redical&hide_border=true"/>
-
-</div>
-
----
-
-# 💡 Quote
-
-> *"Code is like humor. When you have to explain it, it's bad."*
+</p>
 
 ---
 
 <div align="center">
 
-### ❤️ Thanks for visiting my profile!
+### Thanks for stopping by ❤️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B3B&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:FF2D2D,100:000000"/>
 
 </div>
